@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id":1,
+      "name": "saahoo",
+      "language":"telugu",
+      "type": "love oriented"
+    
+    },
+    {
+      "id":2,
+      "name": "adi purush",
+      "language":"telugu",
+      "type": "devotional oriented"
+    
+    },
+    {
+      "id":3,
+      "name": "radhey shyam",
+      "language":"telugu",
+      "type": "romance oriented"
+    
+    }
+  ]
+}
